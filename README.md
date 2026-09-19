@@ -70,21 +70,6 @@
 ---
 
 <div align="center">
-  <h2 style="color: #ffb7c5;">Estatísticas e Atividade</h2>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KliPro&show_icons=true&theme=transparent&hide_border=true&title_color=ffb7c5&text_color=d1d1d1&icon_color=ffb7c5" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KliPro&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=ffb7c5&text_color=d1d1d1" alt="Linguagens Mais Usadas" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KliPro&bg_color=0d1117&color=ffb7c5&line=ffb7c5&point=ff9ebb&area=true&hide_border=true&border_radius=10" width="100%" alt="Gráfico de Atividade" />
-  </p>
-</div>
-
----
-
-<div align="center">
   <h2 style="color: #ffb7c5;">Vamos Conectar?</h2>
 
   <table>
