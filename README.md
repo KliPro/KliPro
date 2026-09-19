@@ -75,7 +75,7 @@
   <table>
     <tr>
       <td align="center" width="90">
-        <a href="mailto:klissia.dev@gmail.com">
+        <a href="Klissia.dev@gmail.com">
           <img src="https://skillicons.dev/icons?i=gmail" width="40" />
         </a>
         <br><b>Gmail</b>
