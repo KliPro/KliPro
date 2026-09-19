@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KliPro/KliPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- TÍTULO DINÂMICO -->
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffb7c5&size=30&center=true&vCenter=true&width=900&lines=👋+Olá!+Eu+sou+a+Klissia+Claudia;💻+Estudante+de+Ciência+da+Computação+%7C+Eniac;🚀+Desenvolvimento+Web+e+Programação;✨+Bem-vinda+ao+meu+perfil!" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- GIF ANIMADO -->
+  <img src="https://i.gifer.com/7zoS.gif" width="350px" alt="Hacker Coding Animation" />
+
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ffb7c5;">Sobre mim</h2>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="100%" align="center">
+      <p style="max-width: 700px; margin: 0 auto;">
+        Olá! Sou a Klissia, estudante de Ciência da Computação no Centro Universitário Eniac e apaixonada por transformar ideias em código. Combinando a minha experiência em ambientes analíticos e dinâmicos, busco sempre criar soluções eficientes e explorar novas tecnologias de desenvolvimento web. No meu dia a dia, estou sempre a aprender ferramentas modernas, a desenvolver projetos práticos e a desafiar-me com novos códigos.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2 style="color: #ffb7c5;">Linguagens de Programação</h2>
+
+  <table>
+    <tr>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="40" /><br><b>Java</b></td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=py" width="40" /><br><b>Python</b></td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="40" /><br><b>JavaScript</b></td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="40" /><br><b>HTML5</b></td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="40" /><br><b>CSS3</b></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ffb7c5;">Ferramentas & Bancos de Dados</h2>
+
+  <table>
+    <tr>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br><b>MySQL</b></td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="40" /><br><b>Git</b></td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="40" /><br><b>GitHub</b></td>
+      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br><b>VS Code</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=androidstudio" width="40" /><br><b>Android Studio</b></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ffb7c5;">Principais Projetos</h2>
+  <p>🛍️ <b><a href="https://github.com/KliPro/Torcida-Prime-Store" target="_blank" style="color: #ffffff; text-decoration: none;">Torcida Prime Store</a></b> — E-commerce de camisas de futebol desenvolvido com HTML, CSS, JavaScript e MySQL.</p>
+  <p>✨ <b><a href="https://github.com/KliPro/estetica-alessandra" target="_blank" style="color: #ffffff; text-decoration: none;">Estética Alessandra</a></b> — Aplicação web desenvolvida com foco em serviços e gestão para a área de estética.</p>
+  <p>📱 <b><a href="https://github.com/KliPro/SyncOps" target="_blank" style="color: #ffffff; text-decoration: none;">SyncOps</a></b> — Aplicação móvel de produtividade ágil para Android desenvolvida em Java e XML através do Android Studio.</p>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ffb7c5;">Estatísticas e Atividade</h2>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KliPro&show_icons=true&theme=transparent&hide_border=true&title_color=ffb7c5&text_color=d1d1d1&icon_color=ffb7c5" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KliPro&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=ffb7c5&text_color=d1d1d1" alt="Linguagens Mais Usadas" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KliPro&bg_color=0d1117&color=ffb7c5&line=ffb7c5&point=ff9ebb&area=true&hide_border=true&border_radius=10" width="100%" alt="Gráfico de Atividade" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ffb7c5;">Vamos Conectar?</h2>
+
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <a href="mailto:klissia.dev@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+        </a>
+        <br><b>Gmail</b>
+      </td>
+      <td align="center" width="90">
+        <a href="https://github.com/KliPro" target="_blank">
+          <img src="https://skillicons.dev/icons?i=github" width="40" />
+        </a>
+        <br><b>GitHub</b>
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.linkedin.com/in/klissia-claudia-762779438" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+        </a>
+        <br><b>LinkedIn</b>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <sub>✨ Desenvolvido com carinho por <b>Klissia Claudia (@KliPro)</b></sub>
+</div>
